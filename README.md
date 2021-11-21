@@ -3,6 +3,7 @@ simply card
 
 # Overview
 
+<img width="946" alt="purpleCard" src="https://user-images.githubusercontent.com/63516391/142763985-5cc947e4-f2ca-4814-8d61-213e7bf1be79.png">
 
 
 ### The challenge
